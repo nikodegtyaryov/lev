@@ -1,2 +1,3 @@
-# lev
-The Lev Programming Language
+# Lev Programming Language
+
+Welcome to Lev!
